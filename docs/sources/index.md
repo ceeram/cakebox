@@ -1,6 +1,6 @@
-# Cakebox 0.1.1-beta
+# Cakebox 1.0-alpha
 
-Multi-framework development environment.
+Multi-framework PHP development environment.
 
 ## Get productive
 
